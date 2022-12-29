@@ -1,7 +1,7 @@
 # React app with Google maps and directions
 
 </bc>
- <img src="./Googlemaps-navigation.gif" alt="Googlemaps-navigation" height="720">
+ <img src="./Googlemaps-navigation.gif" alt="Googlemaps-navigation" height="360">
 
 ## Starting the app
 
